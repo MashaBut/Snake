@@ -1,0 +1,10 @@
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\bin\Debug\snake.exe
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\bin\Debug\snake.pdb
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.csprojAssemblyReference.cache
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.Tail.resources
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.exe
+C:\Users\Мария\Desktop\мои проекты\C#\практика C#\snake\snake\obj\Debug\snake.pdb
